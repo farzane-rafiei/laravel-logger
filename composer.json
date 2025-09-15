@@ -1,0 +1,9 @@
+{
+    "name": "rafiei/laravel-logger",
+    "authors": [
+        {
+            "name": "Farzane Rafiei"
+        }
+    ],
+    "require": {}
+}
